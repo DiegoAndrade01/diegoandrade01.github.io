@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[link notebook](https://github.com/DiegoAndrade01/diegoandrade01.github.io/blob/master/HR%20-%20Recrutamento%20Interno.ipynb)
+[link notebook](diegoandrade01.github.io/HR%20-%20Recrutamento%20Interno.ipynb)
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
