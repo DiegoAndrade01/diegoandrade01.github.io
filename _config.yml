@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Portfolio
+logo: /assets/img/bb8.jpg
+description: Diego Andrade: Data Science Portfolio
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
