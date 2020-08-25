@@ -1,6 +1,6 @@
 title: Portfolio
 logo: /assets/img/logo.png
 description: Diego Andrade: Data Science Portfolio
-show_downloads: False
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
