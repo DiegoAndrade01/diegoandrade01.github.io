@@ -4,7 +4,7 @@ layout: default
 
 # [Projeto 1:  ANÁLISE ESTRATÉGICA DE NEGÓCIO](https://diegoandrade01.github.io/Projeto_1/)
 
-Neste projeto analisei o desempenho de 150 lojas de uma Startup com base em indicadores de desempenho e também indentifiquei as lojas com maior potencial de investimento em propaganda através de clusterização e regressão linear
+Neste projeto analisei o desempenho de 150 lojas de uma Startup com base em indicadores de desempenho (KPIs) e também indentifiquei as lojas com maior potencial de investimento em propaganda através de clusterização e regressão linear
 
 # Projeto 1:  ANALISE DE STARTUP
 
