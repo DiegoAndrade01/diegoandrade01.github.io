@@ -5,7 +5,7 @@ layout: default
 
 # Projeto 1:  ANALISE
 
-[Link DO PROJETO](./Análise Estratégica de Negócio.html).
+[Link DO PROJETO](./AnaliseStartup.html).
 
 
 
