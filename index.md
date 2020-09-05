@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [Projeto 1:  ANALISE ESTRATÉGICA DE NEGÓCIO](https://diegoandrade01.github.io/Projeto_1/)
+# [Projeto 1:  ANÁLISE ESTRATÉGICA DE NEGÓCIO](https://diegoandrade01.github.io/Projeto_1/)
 
 descrição aqui
 
