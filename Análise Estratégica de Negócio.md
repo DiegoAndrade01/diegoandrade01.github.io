@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Análise Estratégica de Negócio
 
 <p style='text-align: justify;'> Uma pequena Startup que presta serviços de lavanderia deseja construir uma grande rede ao atuar em diversas cidades.  A estratégia da Startup é atuar em cidades pequenas pois ela ainda não consegue competir com grandes empresas já estabelecidas nos grandes centros urbanos. O público-alvo da empresa são clientes que residem em apartamentos pequenos que não possuem espaço para uma máquina de lavar. O funcionamento do negócio consiste na ida de um funcionário até o cliente, onde são coletadas as peças de roupas, após isso as mesmas são lavadas, secadas, passadas e então são devolvidas ao cliente. A empresa também fornece um serviço especial para clientes que estão com mais pressa. 
