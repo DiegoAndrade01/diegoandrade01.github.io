@@ -5,13 +5,12 @@ layout: default
 
 # Projeto 1:  ANALISE
 
-[Link DO PROJETO](./Analise_Startup.html).
+[LINK DO PROJETO](./Analise_Startup.html).
 
 
 # Projeto 1:  BLA BLA BLA BLA
 
 Neste projeto foi feito isso e aquilo!
-
 
 [link notebook](diegoandrade01.github.io/HR%20-%20Recrutamento%20Interno.ipynb)
 
