@@ -8,8 +8,6 @@ layout: default
 [Link DO PROJETO](./AnaliseStartup.html).
 
 
-
-
 # Projeto 1:  BLA BLA BLA BLA
 
 Neste projeto foi feito isso e aquilo!
