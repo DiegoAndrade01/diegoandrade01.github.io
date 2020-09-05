@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# Projeto 1:  ANALISE DE STARTUP
+
+[LINK DO PROJETO](https://diegoandrade01.github.io/Projects/Analise_Startup/An%C3%A1lise%20Estrat%C3%A9gica%20de%20Neg%C3%B3cio.html).
+
 
 # Projeto 1:  ANALISE
 
