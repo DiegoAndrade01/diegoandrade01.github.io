@@ -7,24 +7,9 @@ layout: default
 
 Neste projeto analisei o desempenho de 150 lojas de uma Startup com base em indicadores de desempenho (KPIs) e também indentifiquei as unidades com maior potencial de investimento em propaganda através de clusterização e regressão linear
 
-# Projeto 1:  ANALISE DE STARTUP
-
-[LINK DO PROJETO](https://diegoandrade01.github.io/Projects/Analise_Startup/An%C3%A1lise%20Estrat%C3%A9gica%20de%20Neg%C3%B3cio.html).
 
 
-# Projeto 1:  ANALISE
 
-[LINK DO PROJETO](./Analise_Startup.html).
-
-
-# Projeto 1:  BLA BLA BLA BLA
-
-Neste projeto foi feito isso e aquilo!
-
-[link notebook](diegoandrade01.github.io/HR%20-%20Recrutamento%20Interno.ipynb)
-
-
-testando
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
